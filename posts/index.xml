@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Molly&#39;s Cafe ☕</title>
-    <link>https://www.molly.cafe/posts/</link>
+    <link>https://molly.cafe/posts/</link>
     <description>Recent content in Posts on Molly&#39;s Cafe ☕</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 22 Nov 2024 21:11:43 -0500</lastBuildDate>
-    <atom:link href="https://www.molly.cafe/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://molly.cafe/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Welcome</title>
-      <link>https://www.molly.cafe/posts/welcome/</link>
+      <link>https://molly.cafe/posts/welcome/</link>
       <pubDate>Fri, 22 Nov 2024 21:11:43 -0500</pubDate>
-      <guid>https://www.molly.cafe/posts/welcome/</guid>
+      <guid>https://molly.cafe/posts/welcome/</guid>
       <description>&lt;p&gt;Hello! You either found my site through one of my socials, or I shamelessly shilled it to you in excitement. Regardless, I&amp;rsquo;m thrilled you&amp;rsquo;re here!&lt;/p&gt;&#xA;&lt;p&gt;This site took a while to get up and running. Mainly because of bouts of random demotivation, but also because setting up a website is &lt;em&gt;much&lt;/em&gt; more work than I was expecting. In all honesty, I thought getting a cute domain would be the difficult part, turns out it was just 6 bucks.&#xA;I&amp;rsquo;m honestly really impressed by people who manage to do this shit from scratch, it&amp;rsquo;s probably a nightmare.&lt;/p&gt;</description>
     </item>
   </channel>
