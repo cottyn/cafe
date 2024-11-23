@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on Molly&#39;s Cafe ☕</title>
+    <link>https://www.molly.cafe/</link>
+    <description>Recent content in Home on Molly&#39;s Cafe ☕</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="https://www.molly.cafe/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Artwork</title>
+      <link>https://www.molly.cafe/artwork/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.molly.cafe/artwork/</guid>
+      <description>&lt;p&gt;Here is some artwork of my character August!&lt;/p&gt;&#xA;&lt;p&gt;(WIP Art gallery will probably use something like &lt;a href=&#34;https://www.lightgalleryjs.com/&#34;&gt;Light Gallery&lt;/a&gt; in the future!)&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://www.molly.cafe/images/artwork/august2.png&#34; alt=&#34;August&#34; title=&#34;waow its her holy shit!!&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://www.molly.cafe/images/artwork/august.png&#34; alt=&#34;August2&#34; title=&#34;holy shit its still her&#34;&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Socials</title>
+      <link>https://www.molly.cafe/socials/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.molly.cafe/socials/</guid>
+      <description>&lt;p&gt;example/test you can not have this page if you want icons are broken for some reason!&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://steamcommunity.com/profiles/76561198083063978&#34; title=&#34;Steam&#34;&gt;Steam&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://bsky.app/profile/kaydbat.bsky.social&#34; title=&#34;B.Sky&#34;&gt;B.Sky&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://x.com/Kaydbat&#34; title=&#34;Twitter | X&#34;&gt;Twitter | X&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/@Kaydbat&#34; title=&#34;Youtube&#34;&gt;Youtube&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
